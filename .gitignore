@@ -1,0 +1,5 @@
+*.pyc
+# Ignore python cache files
+
+*.json
+# Ignore large files
